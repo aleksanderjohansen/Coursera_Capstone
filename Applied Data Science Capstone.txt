@@ -1,0 +1,6 @@
+Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+1) I want to investigate where a restaurant owner can open a new restaurant in the Oslo area. The question is where in the central area of Oslo, more specifically near Herslebs gate 2 0561 Oslo (geo 59.920, 10.761).
+
+Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+2) My data will be location data from Foursquare describing location (address), geo position, ratings and description. The basis will be the address Herslebs gate 2 0561 Oslo with geo position 59.920, 10.761.
+
